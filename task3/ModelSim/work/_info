@@ -1,0 +1,2071 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+valtera_avalon_sc_fifo
+Z0 !s110 1731882761
+!i10b 1
+!s100 4mK@em][G=j]om3zJIhOc0
+I_fYKD;cOfYQBghI2CZ6Qc3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task3/ModelSim
+Z3 w1731869721
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_sc_fifo.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_sc_fifo.v
+Z4 L0 21
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1731882761.000000
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_sc_fifo.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+valtera_avalon_st_clock_crosser
+R0
+!i10b 1
+!s100 YbU`iK^TYJ_9Hz`CZekjQ3
+IHEXXkmYK07_4;5=T4RQkj3
+R1
+R2
+Z9 w1731869722
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_st_clock_crosser.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_st_clock_crosser.v
+Z10 L0 22
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_st_clock_crosser.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_st_clock_crosser.v|
+!i113 1
+R7
+R8
+valtera_avalon_st_handshake_clock_crosser
+Z11 !s110 1731882762
+!i10b 1
+!s100 3f<J9K;e[9FU@JKn0^PK?0
+IUhWE[nkgT4@FcKBINFmid0
+R1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+Z12 L0 24
+R5
+r1
+!s85 0
+31
+Z13 !s108 1731882762.000000
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v|
+!i113 1
+R7
+R8
+valtera_avalon_st_pipeline_base
+R11
+!i10b 1
+!s100 SP[<U8JVkW?]RHOS`DzPF1
+IZUSPD>2h>jB0g@[>iM`f60
+R1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_st_pipeline_base.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_st_pipeline_base.v
+R10
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_st_pipeline_base.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_st_pipeline_base.v|
+!i113 1
+R7
+R8
+valtera_avalon_st_pipeline_stage
+Z14 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z15 !s110 1731882751
+!i10b 1
+!s100 0[eR^H<[LF9R7ZA?d`HaW2
+IcDk:GXmTcXM8M7;ch>zJE3
+R1
+!s105 altera_avalon_st_pipeline_stage_sv_unit
+S1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_st_pipeline_stage.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_st_pipeline_stage.sv
+R10
+R5
+r1
+!s85 0
+31
+Z16 !s108 1731882750.000000
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_st_pipeline_stage.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_avalon_st_pipeline_stage.sv|
+!i113 1
+Z17 o-work work -sv
+R8
+valtera_default_burst_converter
+R14
+R15
+!i10b 1
+!s100 EmN7^KGFmnmba?3NNCWgU0
+I:;4J=c@VAUckhh0D<7gE12
+R1
+!s105 altera_default_burst_converter_sv_unit
+S1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_default_burst_converter.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_default_burst_converter.sv
+L0 30
+R5
+r1
+!s85 0
+31
+Z18 !s108 1731882751.000000
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_default_burst_converter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_default_burst_converter.sv|
+!i113 1
+R17
+R8
+valtera_incr_burst_converter
+R14
+R15
+!i10b 1
+!s100 9gP0R0To835oQO4JK^zb<3
+I;;1<ZbO0Oo=XedeRi4O7[1
+R1
+!s105 altera_incr_burst_converter_sv_unit
+S1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_incr_burst_converter.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_incr_burst_converter.sv
+Z19 L0 28
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_incr_burst_converter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_incr_burst_converter.sv|
+!i113 1
+R17
+R8
+valtera_irq_clock_crosser
+R14
+R15
+!i10b 1
+!s100 h4R`cF8cBH7NA_@W;Oa@73
+I;0YlOiaV5Kj8UIfYVN5MI2
+R1
+!s105 altera_irq_clock_crosser_sv_unit
+S1
+R2
+R3
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_irq_clock_crosser.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_irq_clock_crosser.sv
+R4
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_irq_clock_crosser.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_irq_clock_crosser.sv|
+!i113 1
+R17
+R8
+valtera_merlin_address_alignment
+R14
+R15
+!i10b 1
+!s100 ;A9^i^d]cR@BAQXEG>h_<3
+IDP`k<[ocKN2AQ2];`;^lC1
+R1
+!s105 altera_merlin_address_alignment_sv_unit
+S1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_address_alignment.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_address_alignment.sv
+L0 26
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_address_alignment.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_address_alignment.sv|
+!i113 1
+R17
+R8
+valtera_merlin_arb_adder
+R14
+Z20 !s110 1731882752
+!i10b 1
+!s100 1Jn[a;@5nZmTN?DFKQNzj2
+IazVDBR_LIC7SZAFkOj]NH1
+R1
+Z21 !s105 altera_merlin_arbitrator_sv_unit
+S1
+R2
+R9
+Z22 8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_arbitrator.sv
+Z23 FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_arbitrator.sv
+L0 228
+R5
+r1
+!s85 0
+31
+R18
+Z24 !s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_arbitrator.sv|
+Z25 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_arbitrator.sv|
+!i113 1
+R17
+R8
+valtera_merlin_arbitrator
+R14
+R20
+!i10b 1
+!s100 NQTehjm2fNQROUMUzShGa1
+I0;i`fVkFdW_CJdl>ezi1`2
+R1
+R21
+S1
+R2
+R9
+R22
+R23
+L0 103
+R5
+r1
+!s85 0
+31
+R18
+R24
+R25
+!i113 1
+R17
+R8
+valtera_merlin_burst_adapter
+R14
+R20
+!i10b 1
+!s100 OCc70X^k:B?GW6i71n`L_3
+IlTC6Kg4[@Ih0O2Gn0Zff[2
+R1
+!s105 altera_merlin_burst_adapter_sv_unit
+S1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_adapter.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_adapter.sv
+R4
+R5
+r1
+!s85 0
+31
+Z26 !s108 1731882752.000000
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_adapter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_adapter.sv|
+!i113 1
+R17
+R8
+valtera_merlin_burst_adapter_13_1
+R14
+R20
+!i10b 1
+!s100 iQDJAL[b9z>XeokOb35D]1
+Iizlgj9RQNCR?1B;8BRWo01
+R1
+Z27 !s105 altera_merlin_burst_adapter_13_1_sv_unit
+S1
+R2
+R9
+Z28 8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_adapter_13_1.sv
+Z29 FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_adapter_13_1.sv
+L0 264
+R5
+r1
+!s85 0
+31
+R26
+Z30 !s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_adapter_13_1.sv|
+Z31 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_adapter_13_1.sv|
+!i113 1
+R17
+R8
+valtera_merlin_burst_adapter_adder
+R14
+R20
+!i10b 1
+!s100 cJB8e]Mn>T^mE[9iEE1jk1
+IRbJ8ZTKML[TbJ4bIRa<@J1
+R1
+R27
+S1
+R2
+R9
+R28
+R29
+L0 55
+R5
+r1
+!s85 0
+31
+R26
+R30
+R31
+!i113 1
+R17
+R8
+valtera_merlin_burst_adapter_burstwrap_increment
+R14
+R20
+!i10b 1
+!s100 ILP^RoOQ^]Ef]XAJeF<SX0
+Ia`>F0l7olcY:M5ZbbUkF50
+R1
+R27
+S1
+R2
+R9
+R28
+R29
+Z32 L0 40
+R5
+r1
+!s85 0
+31
+R26
+R30
+R31
+!i113 1
+R17
+R8
+valtera_merlin_burst_adapter_min
+R14
+R20
+!i10b 1
+!s100 5OK?oF?>S0i7IYQi<IKhS1
+Ikf>;QOf^3KCEYD;054H;B1
+R1
+R27
+S1
+R2
+R9
+R28
+R29
+L0 98
+R5
+r1
+!s85 0
+31
+R26
+R30
+R31
+!i113 1
+R17
+R8
+valtera_merlin_burst_adapter_new
+R14
+R20
+!i10b 1
+!s100 eY?@Ti=8ZUfaj_BZGBf:M0
+IhiUA4C:60cZLK77BzjdHj3
+R1
+!s105 altera_merlin_burst_adapter_new_sv_unit
+S1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_adapter_new.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_adapter_new.sv
+Z33 L0 25
+R5
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_adapter_new.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_adapter_new.sv|
+!i113 1
+R17
+R8
+valtera_merlin_burst_adapter_subtractor
+R14
+R20
+!i10b 1
+!s100 3nMfY`gC_:azzfSULAX8f2
+IE8JNhVTd3miOSlaj4[EPh3
+R1
+R27
+S1
+R2
+R9
+R28
+R29
+L0 77
+R5
+r1
+!s85 0
+31
+R26
+R30
+R31
+!i113 1
+R17
+R8
+valtera_merlin_burst_adapter_uncompressed_only
+R14
+R20
+!i10b 1
+!s100 STH]BdUM[JDMJZNJGXCd>0
+IBHL;M;F3Wj6ikz>aGzoFl2
+R1
+!s105 altera_merlin_burst_adapter_uncmpr_sv_unit
+S1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv
+L0 39
+R5
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv|
+!i113 1
+R17
+R8
+valtera_merlin_burst_uncompressor
+R14
+Z34 !s110 1731882753
+!i10b 1
+!s100 f1?Rb<=9U?R9LJoHl;7>T3
+I4JXkHM_;ENb<=9K40RYKH1
+R1
+!s105 altera_merlin_burst_uncompressor_sv_unit
+S1
+R2
+R3
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+R32
+R5
+r1
+!s85 0
+31
+Z35 !s108 1731882753.000000
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!i113 1
+R17
+R8
+valtera_merlin_master_agent
+R14
+R34
+!i10b 1
+!s100 _CJm:YX=>U2LQKH;8=@cb0
+IB^RE4<ZRk7o=RQAQi[O<I3
+R1
+!s105 altera_merlin_master_agent_sv_unit
+S1
+R2
+R3
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_master_agent.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_master_agent.sv
+R19
+R5
+r1
+!s85 0
+31
+R35
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_master_agent.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_master_agent.sv|
+!i113 1
+R17
+R8
+valtera_merlin_master_translator
+R14
+R34
+!i10b 1
+!s100 NdRk@]3fC2C@V7Rm;dQM31
+IlDXE`QOM<QTfKjORm6W:d1
+R1
+!s105 altera_merlin_master_translator_sv_unit
+S1
+R2
+R3
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_master_translator.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_master_translator.sv
+L0 32
+R5
+r1
+!s85 0
+31
+R35
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_master_translator.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_master_translator.sv|
+!i113 1
+R17
+R8
+valtera_merlin_slave_agent
+R14
+R34
+!i10b 1
+!s100 ePZN1d?B062J`OBb?blff3
+IgEmzjK6JU4=6Q?N0PiUNl3
+R1
+!s105 altera_merlin_slave_agent_sv_unit
+S1
+R2
+R3
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_slave_agent.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_slave_agent.sv
+L0 34
+R5
+r1
+!s85 0
+31
+R35
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_slave_agent.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_slave_agent.sv|
+!i113 1
+R17
+R8
+valtera_merlin_slave_translator
+R14
+R34
+!i10b 1
+!s100 k`9[YAn_dLTkg;GE`mOb61
+I4<hZCF3>RZ=?Acfojf5g32
+R1
+!s105 altera_merlin_slave_translator_sv_unit
+S1
+R2
+R3
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_slave_translator.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_slave_translator.sv
+L0 35
+R5
+r1
+!s85 0
+31
+R35
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_slave_translator.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_slave_translator.sv|
+!i113 1
+R17
+R8
+valtera_merlin_width_adapter
+R14
+Z36 !s110 1731882754
+!i10b 1
+!s100 QzdA5DP6CReOTH<9QzODa3
+IS]Wlf^Xf6bC9UnW9P8An`2
+R1
+!s105 altera_merlin_width_adapter_sv_unit
+S1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_width_adapter.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_width_adapter.sv
+R33
+R5
+r1
+!s85 0
+31
+Z37 !s108 1731882754.000000
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_width_adapter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_merlin_width_adapter.sv|
+!i113 1
+R17
+R8
+valtera_reset_controller
+R36
+!i10b 1
+!s100 z[H_hRO9gO=:^2E3_jWH03
+IIb^hDik@lUM55<Q=MDVF;3
+R1
+R2
+R3
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_reset_controller.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_reset_controller.v
+L0 42
+R5
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_reset_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_reset_controller.v|
+!i113 1
+R7
+R8
+valtera_reset_synchronizer
+R36
+!i10b 1
+!s100 oWLYmSO[EOX[G0PgQhZ2=0
+IOS8E@MR_K`4hZLX6aB;FB3
+R1
+R2
+R3
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_reset_synchronizer.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_reset_synchronizer.v
+R12
+R5
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_reset_synchronizer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_reset_synchronizer.v|
+!i113 1
+R7
+R8
+valtera_std_synchronizer_nocut
+R36
+!i10b 1
+!s100 b8zV2<79GgkNg0GC<P[GJ2
+I=okY9D5VZzB4CGF[9lb<?1
+R1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_std_synchronizer_nocut.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_std_synchronizer_nocut.v
+L0 44
+R5
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_std_synchronizer_nocut.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_std_synchronizer_nocut.v|
+!i113 1
+R7
+R8
+valtera_wrap_burst_converter
+R14
+R36
+!i10b 1
+!s100 NPBYN=]<L:km?aGk_2fQE3
+IAW`EbS8D6lf7ao^2lLVWN0
+R1
+!s105 altera_wrap_burst_converter_sv_unit
+S1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_wrap_burst_converter.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_wrap_burst_converter.sv
+L0 27
+R5
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_wrap_burst_converter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/altera_wrap_burst_converter.sv|
+!i113 1
+R17
+R8
+vdnn_accel_system
+!s110 1731882750
+!i10b 1
+!s100 GNch<TC9g=l]A`3czkToD0
+I>TzEMmB7?bib^mgVe`=YY0
+R1
+R2
+w1731869701
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/dnn_accel_system.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/dnn_accel_system.v
+L0 6
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/dnn_accel_system.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/dnn_accel_system.v|
+!i113 1
+R7
+R8
+vdnn_accel_system_irq_mapper
+R14
+Z38 !s110 1731882755
+!i10b 1
+!s100 AP9J]]G1_WzS[5HNQT5Fb0
+IP<9L[lcCZe>=i`HOz7dP93
+R1
+!s105 dnn_accel_system_irq_mapper_sv_unit
+S1
+R2
+R3
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_irq_mapper.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_irq_mapper.sv
+L0 31
+R5
+r1
+!s85 0
+31
+Z39 !s108 1731882755.000000
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_irq_mapper.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_irq_mapper.sv|
+!i113 1
+R17
+R8
+vdnn_accel_system_jtag_uart_0
+R38
+!i10b 1
+!s100 aningYXhSO6k6F[3A;@Nb1
+IXTS85KbMdCL3Q^2WPK]4V3
+R1
+R2
+Z40 w1731869703
+Z41 8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_jtag_uart_0.v
+Z42 FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_jtag_uart_0.v
+L0 331
+R5
+r1
+!s85 0
+31
+R39
+Z43 !s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_jtag_uart_0.v|
+Z44 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_jtag_uart_0.v|
+!i113 1
+R7
+R8
+vdnn_accel_system_jtag_uart_0_scfifo_r
+R38
+!i10b 1
+!s100 ;KifaG`10C>SNYfN<c_mC1
+IH>PeUPBhC8]>65TLR[a9=2
+R1
+R2
+R40
+R41
+R42
+L0 243
+R5
+r1
+!s85 0
+31
+R39
+R43
+R44
+!i113 1
+R7
+R8
+vdnn_accel_system_jtag_uart_0_scfifo_w
+R38
+!i10b 1
+!s100 N3GQfaW9YFIaKJTd6]S`h2
+Il`jF:SaI6PLRVL;AdJ5l80
+R1
+R2
+R40
+R41
+R42
+L0 78
+R5
+r1
+!s85 0
+31
+R39
+R43
+R44
+!i113 1
+R7
+R8
+vdnn_accel_system_jtag_uart_0_sim_scfifo_r
+R38
+!i10b 1
+!s100 06MXcEUUjLh]6Ml<9i<6;1
+IgKjj^]<JMVil1=m@I_`1K0
+R1
+R2
+R40
+R41
+R42
+L0 164
+R5
+r1
+!s85 0
+31
+R39
+R43
+R44
+!i113 1
+R7
+R8
+vdnn_accel_system_jtag_uart_0_sim_scfifo_w
+R38
+!i10b 1
+!s100 jaeY@[DD8HKk:gXGkHEeI1
+IR;T^Y:m3g6cVmO]F6B]kU1
+R1
+R2
+R40
+R41
+R42
+R4
+R5
+r1
+!s85 0
+31
+R39
+R43
+R44
+!i113 1
+R7
+R8
+vdnn_accel_system_mm_interconnect_0
+R38
+!i10b 1
+!s100 e`LP?B1Gz_KHio>d^bMYT3
+I;nX4MIm:WE@Q_MJ7XdE?I1
+R1
+R2
+R3
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+R39
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0.v|
+!i113 1
+R7
+R8
+vdnn_accel_system_mm_interconnect_0_avalon_st_adapter
+R38
+!i10b 1
+!s100 n09oc>MTbH657h3Y`_bT[0
+Iz<Zc<@B6>Rbb1UibO1]2I1
+R1
+R2
+w1731869723
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_avalon_st_adapter.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_avalon_st_adapter.v
+L0 9
+R5
+r1
+!s85 0
+31
+R39
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_avalon_st_adapter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_avalon_st_adapter.v|
+!i113 1
+R7
+R8
+vdnn_accel_system_mm_interconnect_0_avalon_st_adapter_002
+R38
+!i10b 1
+!s100 :bcgUE^d3Tc^l^77JZ^[P0
+I:bA0=k7g4Z@9mdVDG6=Rd3
+R1
+R2
+Z45 w1731869724
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_avalon_st_adapter_002.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_avalon_st_adapter_002.v
+L0 9
+R5
+r1
+!s85 0
+31
+R39
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_avalon_st_adapter_002.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_avalon_st_adapter_002.v|
+!i113 1
+R7
+R8
+vdnn_accel_system_mm_interconnect_0_avalon_st_adapter_002_error_adapter_0
+R14
+Z46 !s110 1731882756
+!i10b 1
+!s100 z:CZY5l0eb;8I6Z0;N?AA3
+I]E7]KKKYP>dVMnEad2jd]3
+R1
+!s105 dnn_accel_system_mm_interconnect_0_avalon_st_adapter_002_error_adapter_0_sv_unit
+S1
+R2
+R45
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_avalon_st_adapter_002_error_adapter_0.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_avalon_st_adapter_002_error_adapter_0.sv
+Z47 L0 66
+R5
+r1
+!s85 0
+31
+Z48 !s108 1731882756.000000
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_avalon_st_adapter_002_error_adapter_0.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_avalon_st_adapter_002_error_adapter_0.sv|
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0
+R14
+R46
+!i10b 1
+!s100 e`:OWG`_oZVj?5<gAh=I=2
+I8>fJKNnh`jb?F[LlH<afh0
+R1
+!s105 dnn_accel_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0_sv_unit
+S1
+R2
+R45
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+R47
+R5
+r1
+!s85 0
+31
+R48
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_cmd_demux
+R14
+R46
+!i10b 1
+!s100 oMPlg0@V4@HZ8U0YAi?V_3
+IP<hR;9]USF@`_5mn;e8eg1
+R1
+!s105 dnn_accel_system_mm_interconnect_0_cmd_demux_sv_unit
+S1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_cmd_demux.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_cmd_demux.sv
+Z49 L0 43
+R5
+r1
+!s85 0
+31
+R48
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_cmd_demux.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_cmd_demux.sv|
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_cmd_demux_001
+R14
+R46
+!i10b 1
+!s100 ]97Sb3Zg=_GFnl^iTOC1J1
+I@_J3EkT4CR8fRLUK>EfZ01
+R1
+!s105 dnn_accel_system_mm_interconnect_0_cmd_demux_001_sv_unit
+S1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_cmd_demux_001.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_cmd_demux_001.sv
+R49
+R5
+r1
+!s85 0
+31
+R48
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_cmd_demux_001.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_cmd_demux_001.sv|
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_cmd_mux
+R14
+R46
+!i10b 1
+!s100 3L3_8eYAz0:k[>JTKX60z2
+In=iJkXzg=no5HTXLM^;mC0
+R1
+!s105 dnn_accel_system_mm_interconnect_0_cmd_mux_sv_unit
+S1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_cmd_mux.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_cmd_mux.sv
+Z50 L0 51
+R5
+r1
+!s85 0
+31
+R48
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_cmd_mux.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_cmd_mux.sv|
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_cmd_mux_001
+R14
+Z51 !s110 1731882757
+!i10b 1
+!s100 XmXT8DP3MzC42C:dhN<KK1
+IIkhQeAM:J6FD[YcgG4doM0
+R1
+!s105 dnn_accel_system_mm_interconnect_0_cmd_mux_001_sv_unit
+S1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_cmd_mux_001.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_cmd_mux_001.sv
+R50
+R5
+r1
+!s85 0
+31
+Z52 !s108 1731882757.000000
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_cmd_mux_001.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_cmd_mux_001.sv|
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_router
+R14
+R51
+!i10b 1
+!s100 ?J4QIg[Nog1KVfYFcXPIX1
+IoG95fX9ijTlF^`@KR>[mO1
+R1
+Z53 !s105 dnn_accel_system_mm_interconnect_0_router_sv_unit
+S1
+R2
+R9
+Z54 8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router.sv
+Z55 FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router.sv
+Z56 L0 84
+R5
+r1
+!s85 0
+31
+R52
+Z57 !s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router.sv|
+Z58 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router.sv|
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_router_001
+R14
+R51
+!i10b 1
+!s100 CM6okm07gf;QcAU3GBJL;3
+IjO<eDk2ajVYSMYbKCM@VK3
+R1
+Z59 !s105 dnn_accel_system_mm_interconnect_0_router_001_sv_unit
+S1
+R2
+R9
+Z60 8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router_001.sv
+Z61 FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router_001.sv
+R56
+R5
+r1
+!s85 0
+31
+R52
+Z62 !s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router_001.sv|
+Z63 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router_001.sv|
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_router_001_default_decode
+R14
+R51
+!i10b 1
+!s100 ZBNZ[X[]>]6B[>TI_?Bjn3
+IT=0bmKYj]hioI>0WDgh@k0
+R1
+R59
+S1
+R2
+R9
+R60
+R61
+Z64 L0 45
+R5
+r1
+!s85 0
+31
+R52
+R62
+R63
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_router_002
+R14
+R51
+!i10b 1
+!s100 AP6Dij1FfPYOUV?8?EBdL2
+IEkNEW[]jX8HB8Zc36EA?@2
+R1
+Z65 !s105 dnn_accel_system_mm_interconnect_0_router_002_sv_unit
+S1
+R2
+R9
+Z66 8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router_002.sv
+Z67 FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router_002.sv
+R56
+R5
+r1
+!s85 0
+31
+R52
+Z68 !s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router_002.sv|
+Z69 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router_002.sv|
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_router_002_default_decode
+R14
+R51
+!i10b 1
+!s100 FmY:7U0ebL_lk3;DMeFfM0
+I7DQ0eeSUWgT9ZR^gNEEYa3
+R1
+R65
+S1
+R2
+R9
+R66
+R67
+R64
+R5
+r1
+!s85 0
+31
+R52
+R68
+R69
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_router_003
+R14
+R51
+!i10b 1
+!s100 PBD8bTgf<4PbRA_N3?R8:2
+I;69m:U76L1RNDQWfz05X[3
+R1
+Z70 !s105 dnn_accel_system_mm_interconnect_0_router_003_sv_unit
+S1
+R2
+R9
+Z71 8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router_003.sv
+Z72 FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router_003.sv
+R56
+R5
+r1
+!s85 0
+31
+R52
+Z73 !s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router_003.sv|
+Z74 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router_003.sv|
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_router_003_default_decode
+R14
+R51
+!i10b 1
+!s100 FZTZW5<@XzO]DMjL^fbO^3
+I<LJKZ@Azi?C4G:6S1ghRU0
+R1
+R70
+S1
+R2
+R9
+R71
+R72
+R64
+R5
+r1
+!s85 0
+31
+R52
+R73
+R74
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_router_004
+R14
+Z75 !s110 1731882758
+!i10b 1
+!s100 83gL?EPQkMkPa_LzzkQhW0
+IaAV633LlB?3[@]BgAO7f23
+R1
+Z76 !s105 dnn_accel_system_mm_interconnect_0_router_004_sv_unit
+S1
+R2
+R9
+Z77 8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router_004.sv
+Z78 FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router_004.sv
+R56
+R5
+r1
+!s85 0
+31
+Z79 !s108 1731882758.000000
+Z80 !s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router_004.sv|
+Z81 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_router_004.sv|
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_router_004_default_decode
+R14
+R75
+!i10b 1
+!s100 _HeWC:6f`D;inMVmTX8A82
+I9l8ISaliK>=`fhV<G_ZfD2
+R1
+R76
+S1
+R2
+R9
+R77
+R78
+R64
+R5
+r1
+!s85 0
+31
+R79
+R80
+R81
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_router_default_decode
+R14
+R51
+!i10b 1
+!s100 0el=aAAS8IhX=GaZLz:1Z2
+IUVBRC:WM8GiEEADCJBF9n1
+R1
+R53
+S1
+R2
+R9
+R54
+R55
+R64
+R5
+r1
+!s85 0
+31
+R52
+R57
+R58
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_rsp_demux
+R14
+R75
+!i10b 1
+!s100 Hda1:FB;o=ME8H:4Be>mW3
+IRcQ0>8VFNEQzfb5QAzGJf2
+R1
+!s105 dnn_accel_system_mm_interconnect_0_rsp_demux_sv_unit
+S1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_rsp_demux.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_rsp_demux.sv
+R49
+R5
+r1
+!s85 0
+31
+R79
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_rsp_demux.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_rsp_demux.sv|
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_rsp_demux_001
+R14
+R75
+!i10b 1
+!s100 GdziODXjbL:n>H5:oBRjA1
+IORLcJ[Nmj5j1SgYVj_kMj0
+R1
+!s105 dnn_accel_system_mm_interconnect_0_rsp_demux_001_sv_unit
+S1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_rsp_demux_001.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_rsp_demux_001.sv
+R49
+R5
+r1
+!s85 0
+31
+R79
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_rsp_demux_001.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_rsp_demux_001.sv|
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_rsp_mux
+R14
+R75
+!i10b 1
+!s100 WTZ:[R4^g6>?RBf;^lA0n2
+IHJT9L<]9o<;K@Y1YaKS5?0
+R1
+!s105 dnn_accel_system_mm_interconnect_0_rsp_mux_sv_unit
+S1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_rsp_mux.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_rsp_mux.sv
+R50
+R5
+r1
+!s85 0
+31
+R79
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_rsp_mux.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_rsp_mux.sv|
+!i113 1
+R17
+R8
+vdnn_accel_system_mm_interconnect_0_rsp_mux_001
+R14
+R75
+!i10b 1
+!s100 5WGHN]zoaST?ZdHj`BoB:0
+IdLA1VeBiRmi1jVRWHAel72
+R1
+!s105 dnn_accel_system_mm_interconnect_0_rsp_mux_001_sv_unit
+S1
+R2
+R9
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_rsp_mux_001.sv
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_rsp_mux_001.sv
+R50
+R5
+r1
+!s85 0
+31
+R79
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_rsp_mux_001.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_mm_interconnect_0_rsp_mux_001.sv|
+!i113 1
+R17
+R8
+vdnn_accel_system_nios2_qsys_0
+Z82 !s110 1731882759
+!i10b 1
+!s100 d4Kb1;XY4=Eb_Ri8`JU3@3
+I9:MME:E@bjo@UWDWaQCS82
+R1
+R2
+Z83 w1731869709
+Z84 8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0.v
+Z85 FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0.v
+L0 3188
+R5
+r1
+!s85 0
+31
+Z86 !s108 1731882759.000000
+Z87 !s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0.v|
+Z88 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0.v|
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_jtag_debug_module_sysclk
+R82
+!i10b 1
+!s100 h@8eehXRHbK^aKoY0?FPZ3
+IElJb2S9DafRR_<1;V60J;2
+R1
+R2
+R83
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_jtag_debug_module_sysclk.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_jtag_debug_module_sysclk.v
+R4
+R5
+r1
+!s85 0
+31
+R86
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_jtag_debug_module_sysclk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_jtag_debug_module_sysclk.v|
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_jtag_debug_module_tck
+R82
+!i10b 1
+!s100 jgM42mN<Xzo2<RnkW;>Pc0
+I;;]X0iEI`mz_W:?7cd88c0
+R1
+R2
+R83
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_jtag_debug_module_tck.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_jtag_debug_module_tck.v
+R4
+R5
+r1
+!s85 0
+31
+R86
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_jtag_debug_module_tck.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_jtag_debug_module_tck.v|
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_jtag_debug_module_wrapper
+Z89 !s110 1731882760
+!i10b 1
+!s100 cSB_a1XD5a5BlCMg:T56j2
+I735hFiDi@:VSMcR2_cSII2
+R1
+R2
+R83
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_jtag_debug_module_wrapper.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_jtag_debug_module_wrapper.v
+R4
+R5
+r1
+!s85 0
+31
+R86
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_jtag_debug_module_wrapper.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_jtag_debug_module_wrapper.v|
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_nios2_avalon_reg
+R82
+!i10b 1
+!s100 oXhTiaVenYV3ENQZUTE5[2
+IQ674E9EY8W@98d2R3IMN40
+R1
+R2
+R83
+R84
+R85
+L0 543
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_nios2_oci
+R82
+!i10b 1
+!s100 O;@:6dARXB?_PgGcTM5Da3
+IPTXh_8]nOe:Y434JW?K<T3
+R1
+R2
+R83
+R84
+R85
+L0 2679
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_nios2_oci_break
+R82
+!i10b 1
+!s100 [c;:`Cz?UFTCK@k]Yk7ZB1
+IV7B7<CE11gG>_:IN[RW]_3
+R1
+R2
+R83
+R84
+R85
+L0 636
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_nios2_oci_compute_input_tm_cnt
+R82
+!i10b 1
+!s100 nNkZ8oHD;oI7XkLV;EnYN1
+I[1=0^kT?R3E4K<kNcQzR;2
+R1
+R2
+R83
+R84
+R85
+L0 1812
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_nios2_oci_dbrk
+R82
+!i10b 1
+!s100 ERG34Qz][E1Qj6o^LR[4K1
+IA:9XKjflVI9SiULbVNPXo3
+R1
+R2
+R83
+R84
+R85
+L0 1138
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_nios2_oci_debug
+R82
+!i10b 1
+!s100 1T_`0g<XBQRVYB?f]KDdf3
+I@GJVNef9eZSKZX0YQ6VjY3
+R1
+R2
+R83
+R84
+R85
+L0 153
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_nios2_oci_dtrace
+R82
+!i10b 1
+!s100 Md9UDF3fag2RF:V?7kU772
+IKV6`gn:ozYG]^N[?m]0<43
+R1
+R2
+R83
+R84
+R85
+L0 1717
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_nios2_oci_fifo
+R82
+!i10b 1
+!s100 LzjjgANJoB>?D]kW@^>]M2
+I8_lCLMcV@:CgKSEa9ZY293
+R1
+R2
+R83
+R84
+R85
+L0 1974
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_nios2_oci_fifo_cnt_inc
+R82
+!i10b 1
+!s100 ][a_HLVa::ZCDF6<cDX`b3
+IhkiQJ?MbQoFYR4[Wbe8;d3
+R1
+R2
+R83
+R84
+R85
+L0 1927
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_nios2_oci_fifo_wrptr_inc
+R82
+!i10b 1
+!s100 ?n0U^[EO<_?7;GVMW=aJ10
+II1NOR]3P38ITLE6EJ>kUg0
+R1
+R2
+R83
+R84
+R85
+L0 1884
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_nios2_oci_im
+R82
+!i10b 1
+!s100 UXK[i9^acW<4F1dE;Knde2
+ISRKlc0iX2GTn5XmO9l8N91
+R1
+R2
+R83
+R84
+R85
+L0 2545
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_nios2_oci_itrace
+R82
+!i10b 1
+!s100 Sn1okJ9>EkFCH>JCOdc8@3
+I[gPbJ=ZJNbS@72_VQ?XH60
+R1
+R2
+R83
+R84
+R85
+L0 1325
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_nios2_oci_pib
+R82
+!i10b 1
+!s100 P^>XVX`AA7ZkJ^`CVz6[l2
+I=:h`_Pbi1Lb:ZEfjA;P0Z0
+R1
+R2
+R83
+R84
+R85
+L0 2476
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_nios2_oci_td_mode
+R82
+!i10b 1
+!s100 eHhzTd=M;VTWePKA^WfV;2
+Ii5A<bOJWJn[;W5GKJoP7[3
+R1
+R2
+R83
+R84
+R85
+L0 1649
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_nios2_oci_xbrk
+R82
+!i10b 1
+!s100 CaeOOEeUYUY<g28mL[65H3
+IZ[BU9z`U0m=fREPk]A8Xl3
+R1
+R2
+R83
+R84
+R85
+L0 931
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_nios2_ocimem
+R82
+!i10b 1
+!s100 aFlEOI1e4N4T6aeBTi=F^1
+IHBQf6Mnalk8F[<>=EaW]51
+R1
+R2
+R83
+R84
+R85
+L0 359
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_nios2_performance_monitors
+R82
+!i10b 1
+!s100 B7eIka__gThmlcnE[c:jo0
+IeI=3^1mB[N8OF;aa8d[e33
+R1
+R2
+R83
+R84
+R85
+L0 2662
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_oci_test_bench
+R89
+!i10b 1
+!s100 76_hGdQnL5z=2iGjYKSQ;3
+IUcaX<fHEY6]=85liHDP:O2
+R1
+R2
+R83
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_oci_test_bench.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_oci_test_bench.v
+R4
+R5
+r1
+!s85 0
+31
+Z90 !s108 1731882760.000000
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_oci_test_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_oci_test_bench.v|
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_ociram_sp_ram_module
+R82
+!i10b 1
+!s100 V3ZXZCKEzU2>?P6G]CH892
+I]:^@a:Me26]MZ8e5MViAS3
+R1
+R2
+R83
+R84
+R85
+L0 295
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_register_bank_a_module
+R82
+!i10b 1
+!s100 I>D?@AC[>MPF@Q?zKROc:2
+InGRhO@dbfUfVL[IOWCk:P1
+R1
+R2
+R83
+R84
+R85
+R4
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_register_bank_b_module
+R82
+!i10b 1
+!s100 2hBBP?]GRezd4TS>onoQY3
+IYoTPVbjZA:?f^mGeR:zfA1
+R1
+R2
+R83
+R84
+R85
+L0 87
+R5
+r1
+!s85 0
+31
+R86
+R87
+R88
+!i113 1
+R7
+R8
+vdnn_accel_system_nios2_qsys_0_test_bench
+R89
+!i10b 1
+!s100 nj4YMc]o23]TN=Q_gSKin0
+ImVea_omPP9KR9`3ID@f>73
+R1
+R2
+R83
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_test_bench.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_test_bench.v
+R4
+R5
+r1
+!s85 0
+31
+R90
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_test_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_nios2_qsys_0_test_bench.v|
+!i113 1
+R7
+R8
+vdnn_accel_system_onchip_memory2_0
+R89
+!i10b 1
+!s100 He8D>=AX>;LDCSRfm`gg?3
+I>a6n?HIj3LM^cFC3:d77J3
+R1
+R2
+Z91 w1731869710
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_onchip_memory2_0.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_onchip_memory2_0.v
+R4
+R5
+r1
+!s85 0
+31
+R90
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_onchip_memory2_0.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_onchip_memory2_0.v|
+!i113 1
+R7
+R8
+vdnn_accel_system_pio_0
+R89
+!i10b 1
+!s100 8hjlA:cYKCUVBTTI]lYnc1
+I7IkB>4kPklSiR<g9O8jgd0
+R1
+R2
+R91
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_pio_0.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_pio_0.v
+R4
+R5
+r1
+!s85 0
+31
+R90
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_pio_0.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_pio_0.v|
+!i113 1
+R7
+R8
+vdnn_accel_system_pll_0
+R0
+!i10b 1
+!s100 AP1;aKYNmi:YS@Bbz;WP?0
+IHj1l4bC6MZO;L9nIn_n6?1
+R1
+R2
+R91
+8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_pll_0.v
+FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_pll_0.v
+L0 2
+R5
+r1
+!s85 0
+31
+R90
+!s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_pll_0.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_pll_0.v|
+!i113 1
+R7
+R8
+vdnn_accel_system_sdram
+R0
+!i10b 1
+!s100 7z7k>V>4>4=G9_?k5Zme[0
+IR?OajE[M9Mh1MoF=[:5Li1
+R1
+R2
+Z92 w1731869711
+Z93 8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_sdram.v
+Z94 FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_sdram.v
+L0 159
+R5
+r1
+!s85 0
+31
+R6
+Z95 !s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_sdram.v|
+Z96 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_sdram.v|
+!i113 1
+R7
+R8
+vdnn_accel_system_sdram_input_efifo_module
+R0
+!i10b 1
+!s100 `0=Q:z<RN_RMj?Hj=:OK82
+IAn_mkVj2OSMV9ZL2cP>zf1
+R1
+R2
+R92
+R93
+R94
+R4
+R5
+r1
+!s85 0
+31
+R6
+R95
+R96
+!i113 1
+R7
+R8
+vdnn_accel_system_sdram_test_component
+R0
+!i10b 1
+!s100 <Nn4B0>PJGIkoW>l_QW<d3
+I]I8i6IA>k:z4C5JIl_z@K3
+R1
+R2
+R92
+Z97 8C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_sdram_test_component.v
+Z98 FC:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_sdram_test_component.v
+L0 114
+R5
+r1
+!s85 0
+31
+R6
+Z99 !s107 C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_sdram_test_component.v|
+Z100 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/visha/Documents/CPEN311/lab-4-lab4-l1c-70/task2/dnn_accel_system/synthesis/submodules/dnn_accel_system_sdram_test_component.v|
+!i113 1
+R7
+R8
+vdnn_accel_system_sdram_test_component_ram_module
+R0
+!i10b 1
+!s100 ;hBgnjAJj9l8NU141dU@g0
+ICjQllOFoCUTgfB1LI=Y[33
+R1
+R2
+R92
+R97
+R98
+R4
+R5
+r1
+!s85 0
+31
+R6
+R99
+R100
+!i113 1
+R7
+R8
